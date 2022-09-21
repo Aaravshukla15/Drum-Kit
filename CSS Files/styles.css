@@ -41,7 +41,7 @@ footer {
 }
 
 .w drum {
-  background-image: url(images/tom1.png);
+  background-image: url("images\tom1.png");
 }
 
 .a {
