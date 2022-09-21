@@ -40,31 +40,31 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
+.w drum{
   background-image: url("images/tom1.png");
 }
 
-.a {
+.a drum{
   background-image: url("images/crash.png");
 }
 
-.s {
+.s drum{
   background-image: url("images/tom4.png");  
 }
 
-.d {
+.d drum{
   background-image: url("images/kick.png");
 }
 
-.j {
+.j drum{
   background-image: url("images/tom3.png");
 }
 
-.k {
+.k drum{
   background-image: url("images/snare.png");
 }
 
-.l {
+.l drum{
   background-image: url("images/tom2.png");
 }
 
